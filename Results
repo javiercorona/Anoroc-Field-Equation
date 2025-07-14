@@ -1,0 +1,63 @@
+🪐 ANOROC Field Equation – Comparative Simulation Suite (Text Format)
+
+⸻
+
+Panel 1: Regulator Strength f’(K) vs Hubble Parameter H
+
+Purpose: Shows how each version modifies gravity at different curvature scales.
+
+H (log scale)	f’_1(K) (Version 1)	f’_2(K) (Version 2)
+10^{-3}	≈ 1	≈ 0
+1	~0.5	~0.5
+10	↓ 0.01	↑ ~10
+
+•	Version 1: Suppresses regulator at high curvature → GR damping
+	•	Version 2: Amplifies regulator at high curvature → Quantum resistance
+
+⸻
+
+Panel 2: Normalized Response of Regulators and Curvature
+
+Curves Plotted:
+	•	f’_1(K)/\max(f’)
+	•	f’_2(K)/\max(f’)
+	•	K = H^4 (scaled)
+
+Key Insight:
+	•	All terms grow or decay with curvature, but:
+	•	Version 1 peaks at low H
+	•	Version 2 surges at high H
+
+⸻
+
+Panel 3: Simulated Hubble Evolution H(t)
+
+
+Time (t)	H_1(t) (Version 1)	H_2(t) (Version 2)
+0.1	0.99	0.997
+1.0	0.67	0.88
+2.0	0.44	0.62
+4.0	0.24	0.38
+
+	•	Version 1 shows smooth decay → typical cosmological cooling
+	•	Version 2 is resistant to decay → sustained curvature from quantum stiffening
+
+⸻
+
+Panel 4: f’(K) vs Curvature Scalar K
+
+Curvature Range: K = H^4 \in [10^{-12}, 10^8]
+
+K	f’_1(K)	f’_2(K)
+10^{-8}	~1	~0
+1	~0.5	~0.5
+10^4	~0.01	~100
+
+✅ Summary of Models
+
+
+Feature	Version 1 – GR Recovery	Version 2 – Quantum Resistance
+f’(K) \to 1 at low K	Yes	No
+f’(K) \to 0 at high K	Yes	No
+f’(K) \to \infty at high K	No	Yes
+Curvature suppression style	Fade-out damping	Explosive stiffening
