@@ -1,0 +1,25 @@
+**GEONIC Gravity**  
+*Extension of GR that limits curvature at Planck scale (Kₘₐₓ ~ ℓₚ⁻⁴), while recovering Einstein's equations at low energy.*  
+
+**Field Equation**:  
+`Gᵤᵥ + f'(K)ℋᵤᵥ + 𝒱ᵤᵥ = κTᵤᵥ`  
+
+**Key Terms**:  
+- **Gᵤᵥ**: Standard Einstein tensor  
+- **f'(K)ℋᵤᵥ**: Curvature limiter (ℋᵤᵥ ~ □Rᵤᵥ - ∇ᵤ∇ᵥR)  
+- **𝒱ᵤᵥ**: Backreaction (quantum/topological effects)  
+- **Tᵤᵥ**: Matter stress-energy  
+
+**Properties**:  
+✓ **GR Recovery** (K ≪ Kₘₐₓ → f'→0)  
+✓ **No Singularities** (K→Kₘₐₓ → f'→∞)  
+✓ **Covariant** (∇ᵘTᵤᵥ=0 preserved)  
+
+**Example**:  
+`f(K) = K/[1 + (K/Kₘₐₓ)²]`  
+→ Smoothly suppresses Planck-scale curvature.  
+
+**Physical Meaning**:  
+- ℋᵤᵥ = "Curvature pressure"  
+- 𝒱ᵤᵥ = Quantum geometry feedback  
+- Kₘₐₓ = Fundamental cutoff
