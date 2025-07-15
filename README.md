@@ -63,7 +63,7 @@ G_{\mu\nu} + f'(K)\,\mathcal{H}_{\mu\nu} + \mathcal{V}_{\mu\nu} = \kappa\,T_{\mu
 
 ## 📜 License
 
-To be added. Default is [MIT](https://opensource.org/licenses/MIT) unless otherwise specified.
+
 
 ---
 
