@@ -129,3 +129,8 @@ results = {
    with β ≈ 0.1 to match observed 𝒱ᵤᵥ structure.
 
 ---
+
+## 📚 References
+1. Original ANOROC formulation: [arXiv:xxxx.xxxx]
+2. Quantum backreaction models: [Phys.Rev.D 99 (2019) 066001]
+3. Numerical implementation: [Class.Quant.Grav. 37 (2020) 195003
