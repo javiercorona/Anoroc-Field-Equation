@@ -47,6 +47,7 @@ G_{\mu\nu} + f'(K)\,\mathcal{H}_{\mu\nu} + \mathcal{V}_{\mu\nu} = \kappa\,T_{\mu
 ---<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b679444a-e14e-4da9-8276-73d6da85fb46" />
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/eeca7378-8b5b-4f83-a2f2-4c5e940cdeb2" />
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/67927501-7080-4549-b94e-33e0ce2ce9f2" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a533e92c-8811-46e3-bc62-30066ba9e6b5" />
 
 
 ## 🔗 Links
