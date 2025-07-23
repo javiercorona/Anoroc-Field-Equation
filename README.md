@@ -136,3 +136,8 @@ The term \( \mathcal{V}_{\mu\nu} \) encodes **nonperturbative quantum geometry e
 
 
 Feel free to open an issue or contact via LinkedIn.
+
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
+*© 2023 ANOROC Project | Maintained by [jcorona]*
+
