@@ -1,5 +1,8 @@
 🌌 ANOROC Field Equation
 
+Asymptotically Normalized Operator Relativistic Ontological Curvature
+
+
 A covariant, curvature-regularized extension of Einstein’s field equations designed to avoid singularities and capture quantum geometric effects near the Planck scale.
 
 ---
