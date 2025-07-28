@@ -147,3 +147,4 @@ Feel free to open an issue or contact via LinkedIn.
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
 *© 2023 ANOROC Project | Maintained by [jcorona]*
 
+“Life is pretty simple: You do some stuff. Most fails. Some works. You do more of what works.” 
