@@ -1,4 +1,5 @@
 🌌 ANOROC Field Equation
+![image](https://github.com/user-attachments/assets/c95dad81-76e1-4d23-a34e-0f049eb08ae2)
 
 ![image](https://github.com/user-attachments/assets/45f76e80-bc90-4b5e-9700-bb2617536b30)
 
