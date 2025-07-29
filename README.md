@@ -1,5 +1,9 @@
 🌌 ANOROC Field Equation
 
+![image](https://github.com/user-attachments/assets/45f76e80-bc90-4b5e-9700-bb2617536b30)
+
+
+
 Asymptotically Normalized Operator Relativistic Ontological Curvature
 
 
