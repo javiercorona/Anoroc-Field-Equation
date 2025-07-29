@@ -47,6 +47,8 @@ G_{\mu\nu} + f'(K)\,\mathcal{H}_{\mu\nu} + \mathcal{V}_{\mu\nu} = \kappa\,T_{\mu
 | `docs/` *(optional)* | Supporting PDFs or images |
 | `diagrams/` *(optional)* | Conceptual diagrams for ANOROC and GEONIC |
 
+![image](https://github.com/user-attachments/assets/b19add30-3c06-472f-a108-7da290ca6f23)
+
 
 ---<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b679444a-e14e-4da9-8276-73d6da85fb46" />
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/eeca7378-8b5b-4f83-a2f2-4c5e940cdeb2" />
