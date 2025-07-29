@@ -118,6 +118,6 @@ new_metric = evolve_metric(
 ```
 
 ## 📚 References
-1. Original ANOROC formulation: [arXiv:xxxx.xxxx]
+1. Original ANOROC formulation: []
 2. Quantum backreaction models: [Phys.Rev.D 99 (2019) 066001]
 3. Numerical implementation: [Class.Quant.Grav. 37 (2020) 195003]
